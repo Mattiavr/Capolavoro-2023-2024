@@ -10,4 +10,5 @@ Per aprire correttamente la documentazione utilizzare il file index.html present
 
 
 
-Se non dovesse aprirsi così, è consigliabile scaricare il tema di sphinx di nome "renku" sul proprio dispositivo.
+Se non dovesse aprirsi così, è consigliabile scaricare il tema di sphinx di nome ["renku"](https://sphinx-themes.org/sample-sites/renku-sphinx-theme/) sul proprio dispositivo.
+
